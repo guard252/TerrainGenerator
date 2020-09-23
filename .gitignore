@@ -1,0 +1,5 @@
+*.opendb
+*.opensdf
+TerrainGenerator/bin-int/
+TerrainGenerator/bin/
+TerrainGenerator/.vs/
